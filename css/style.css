@@ -1,0 +1,84 @@
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td {
+    background-color: #0d131b;
+}
+.new_card {
+    font-size: 55px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.tess {
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.one {
+    width: 480px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+    margin: 40px 50px;
+}
+.two {
+    color: #e8a336;
+}
+.three {
+    color: #fa5d26;
+    text-decoration: underline;
+}
+.other-card {
+    text-align: center;
+    font-size: 24px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #fffff8;
+    background-color: #9f15a9;
+    font-weight: bold;
+    font-family: "Arial";
+    text-decoration: none;
+}
+.four {
+    font-size: 36px;
+    text-transform: uppercase;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.five {
+    font-size: 36px;
+    text-transform: uppercase;
+    color: #9f15a9;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center; 
+}
+.six {
+    font-size: 24px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center; 
+}
+.zakaz {
+    font-size: 18px;
+}
+.seven {
+    text-align: center;
+}
+.eight {
+    font-size: 11px;
+    line-height: 22px;
+    color: #85908c;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}

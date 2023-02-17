@@ -20,17 +20,16 @@ td {
     text-align: center;
 }
 .one {
-    width: 480px;
     font-size: 14px;
     line-height: 22px;
     color: #86918c;
     font-family: "Arial";
-    margin: 40px 50px;
+    padding: 40px 50px;
 }
-.two {
+.yellow {
     color: #e8a336;
 }
-.three {
+.orange {
     color: #fa5d26;
     text-decoration: underline;
 }
@@ -79,6 +78,24 @@ td {
     line-height: 22px;
     color: #85908c;
     font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.kontakt td {
+    background-color: #ebd2aa;
+}
+.nine {
+    font-size: 36px;
+    color: #263870;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    padding: 50px;
+}
+.ten {
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
     font-family: "Arial";
     text-align: center;
 }

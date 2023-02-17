@@ -106,7 +106,7 @@ td {
     font-weight: bold;
     font-family: "Arial";
     text-align: center;
-    padding: 50px;
+    padding: 0px;
 }
 .ten {
     font-size: 14px;
@@ -114,4 +114,11 @@ td {
     color: #000000;
     font-family: "Arial";
     text-align: center;
+}
+.red {
+    color: #b25000;
+    text-decoration: underline;
+}
+.reds {
+    color: #b25000;
 }
